@@ -1,6 +1,8 @@
 package org.ptprepmarkings.java;
 
-// add comment
+// add comment 1
+// comment 2
+// comment 3
 public class PrintMarkings {
 	
 	public static void PrintMaru() { 
